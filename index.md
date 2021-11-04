@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Badar Rehman Game Development Portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Badar Rehman's Game Developmenmt Portfolio ...
